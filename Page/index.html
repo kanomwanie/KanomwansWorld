@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Kanomwan's World</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-flat.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Poppins", sans-serif}
+body {font-size:16px;}
+.w3-half img{margin-bottom:-6px;margin-top:16px;opacity:0.8;cursor:pointer}
+.w3-half img:hover{opacity:1}
+</style>
+</head>
+<body>
+<script src="../Script/sidebar.js"></script>
+<script>
+    $(document).ready(function(){
+        sidebar();
+    });
+</script>
+<script src="../Script/index_script.js"></script>
+<script>
+    $(document).ready(function(){
+         update_log();
+    });
+</script>
+<!-- !PAGE CONTENT! -->
+<div class="w3-main" style="margin-left:204px;">
+
+  <!-- Header -->
+
+  <div class="w3-display-container w3-container w3-animate-top w3-animate-opacity" >
+    <img src="../Img/1157667609.png" alt="img"  width="1500" height="300"style="filter: brightness(60%); object-position: 0px -50px; object-fit: cover; max-height: 300px; max-width: 1350px;">
+  <div class="w3-display-middle w3-padding-large w3-border w3-wide w3-border-white w3-text-white w3-center">
+    <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">Kanomwan's World</h1>
+    <h5 class="w3-hide-large" style="white-space:nowrap">Kanomwan's World</h5>
+  </div>
+  </div>
+<p></p>
+  <!-- Intro -->
+   <div class="w3-row-padding w3-padding w3-center" style="margin-left:10px;">
+    <div class="w3-half w3-display-container w3-animate-opacity"><img src="../Img/2178420_orig.png" alt="img"  width="1500" height="500"style="object-fit: cover;  max-width: 600px;"></div>
+    <div class="w3-half w3-container "> <p>Hello! This  is Kanomwan's UTAU Official web site!</p></div>
+  </div><p></p>
+<div class="w3-panel w3-border-bottom"style="margin-left:45px; margin-right:45px; margin-top:45px;"></div>
+
+  <h1 class="w3-xxlarge w3-text-black"style="margin-left:45px;margin-top:45px;"><b>UPDATE</b></h1>
+ 
+  <div id="update" class="w3-container" style="overflow: auto; max-height: 300px; ">
+  </div>
+
+<!-- End page content -->
+</div>
+
+<!-- W3.CSS Container -->
+<div class="w3-light-grey w3-container w3-padding-32" style="margin-top:75px;padding-right:58px"><p class="w3-right">Theme by w3</p></div>
+
+<script>
+// Script to open and close sidebar
+function w3_open() {
+  document.getElementById("mySidebar").style.display = "block";
+  document.getElementById("myOverlay").style.display = "block";
+}
+ 
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+  document.getElementById("myOverlay").style.display = "none";
+}
+
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+</script>
+
+</body>
+</html>
