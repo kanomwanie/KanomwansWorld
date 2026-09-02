@@ -142,8 +142,8 @@ function char_list(){
   let topp = `<div class="w3-row-padding" style="margin-left: 50px;"><br>`
   for(let j = 0; j < data[i].char.length; j++){
     let sub_new = `<div class="w3-quarter w3-center">
- <a href="${data[i].char[j].link}"> <img src="../Img/${data[i].char[j].img}" style="width: 150px;" class="w3-round w3-hover-opacity"></a>
-  <h4>${data[i].char[j].Name}</h4>
+ <a href="${data[i].char[j].link}"> <img src="../Img/${data[i].char[j].img}" style="width: 150px;" class="w3-animate-opacity w3-round w3-hover-opacity"></a>
+  <h4 class="w3-animate-opacity">${data[i].char[j].Name}</h4>
 </div>`
 if (count == 1){
 sub_text = sub_text + topp + sub_new
