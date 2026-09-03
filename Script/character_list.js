@@ -4,7 +4,7 @@ const data =[{
     "char": [{
  "Name": "Kanomwan",
  "img": "kanomwan.bmp",
-        "link": "index.html"
+        "link": "Kanomwan.html"
     },
     {
  "Name": "Kisamawa Iwa",
