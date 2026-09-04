@@ -9,12 +9,12 @@ const data =[{
     {
  "Name": "Kisamawa Iwa",
  "img": "iwa.bmp",
-        "link": "index.html"
+        "link": "IWA.html"
     },
     {
  "Name": "Roj",
  "img": "roj.bmp",
-        "link": "index.html"
+        "link": "Roj.html"
     },
     {
  "Name": "Phiang aw",
@@ -32,7 +32,7 @@ const data =[{
     "char": [{
  "Name": "4L1C3",
  "img": "208.bmp",
-        "link": "index.html"
+        "link": "4l1c3.html"
     },
     {
  "Name": "Fxckking",

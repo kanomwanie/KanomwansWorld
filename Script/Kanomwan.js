@@ -38,7 +38,8 @@ Deep-soft<br>
 A3`,
         "link":"https://drive.google.com/file/d/0B4ARNM2BPvHnZ0N1d1NDR0ptSFk/view?resourcekey=0-2jBpZBzI2xFNCgozx1n8Qg",
         "type":"audio",
-        "source":"../Audio/sam.wav"
+        "source":"../Audio/sam.wav",
+        "note":"Sample song : 通りゃんせ (ust by 有魚神弥/番煎P)"
     },
 ]
 
@@ -161,7 +162,8 @@ A3
 `,
         "link":"https://drive.google.com/file/d/0B4ARNM2BPvHnUm53QXJNZmNGemM/view?resourcekey=0-wO3fGK29f43qV57u1EF30Q",
         "type":"audio",
-        "source":"../Audio/MCVVC.wav"
+        "source":"../Audio/MCVVC.wav",
+        "note":"Sample song : 通りゃんせ (ust by 有魚神弥/番煎P)"
     },
     {
         "info":`<b>Strong</b><br>
@@ -299,7 +301,7 @@ if (count%2==0){
         sample = ` <div class="w3-half w3-display-container w3-animate-opacity"><audio controls>
   <source src="${data.source}" type="audio/wav">
 Your browser does not support the audio element.
-</audio> </div>`
+</audio> <p class="w3-medium w3-text-grey">${data.note}</p></div>`
     }
 cv =  top + sample + detail+end
 }
@@ -315,7 +317,7 @@ else{
         sample = ` <div class="w3-half w3-display-container w3-animate-opacity"><audio controls>
   <source src="${data.source}" type="audio/wav">
 Your browser does not support the audio element.
-</audio> </div>`
+</audio> <p class="w3-medium w3-text-grey">${data.note}</p></div>`
     }
     cv = top +detail+sample+end
 }
