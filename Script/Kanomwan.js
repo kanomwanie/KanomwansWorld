@@ -311,7 +311,7 @@ else{
     <div class="w3-row"style="margin-left:50px;margin-top:10px;"> <button target="_blank" onclick="window.open('${data.link}','_blank')" class="w3-button w3-white w3-border w3-round-large">Download</button></div>
     </div>`
     if (data.type == "video"){
-        sample = `<div class="w3-half w3-display-container w3-animate-opacity"> <iframe referrerpolicy="strict-origin-when-cross-origin" width="620" height="360"src="${data.source}"></iframe> </div>`
+        sample = `<div class="w3-half w3-display-container w3-animate-opacity"> <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="620" height="360"src="${data.source}"></iframe> </div>`
     }
     else if(data.type == "audio"){
         sample = ` <div class="w3-half w3-display-container w3-animate-opacity"><audio controls>
