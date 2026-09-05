@@ -7,7 +7,7 @@ let navbar_code_str = `
     <h3 class="w3-padding-64"><b>Kanomwan's<br>World</b></h3>
   </div>
   <div class="w3-bar-block">
-    <a href="../index.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Home</a> 
+    <a href="index.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Home</a> 
     <a href="TOU.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Character</a> 
     <a href="UST.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">UST</a> 
     <a href="Contact.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Contact</a>

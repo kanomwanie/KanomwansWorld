@@ -16,7 +16,13 @@ body {font-size:16px;}
 </style>
 </head>
 <body>
-<script src="Script/index_script.js"></script>
+  <script src="../Script/sidebar.js"></script>
+<script>
+    $(document).ready(function(){
+        sidebar();
+    });
+</script>
+<script src="../Script/index_script.js"></script>
 <script>
     $(document).ready(function(){
          update_log();
@@ -28,7 +34,7 @@ body {font-size:16px;}
   <!-- Header -->
 
   <div class="w3-display-container w3-container w3-animate-top w3-animate-opacity" >
-    <img src="Img/1157667609.png" alt="img"  width="1500" height="300"style="filter: brightness(60%); object-position: 0px -50px; object-fit: cover; max-height: 300px; max-width: 1350px;">
+    <img src="../Img/1157667609.png" alt="img"  width="1500" height="300"style="filter: brightness(60%); object-position: 0px -50px; object-fit: cover; max-height: 300px; max-width: 1350px;">
   <div class="w3-display-middle w3-padding-large w3-border w3-wide w3-border-white w3-text-white w3-center">
     <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">Kanomwan's World</h1>
     <h5 class="w3-hide-large" style="white-space:nowrap">Kanomwan's World</h5>
@@ -37,7 +43,7 @@ body {font-size:16px;}
 <p></p>
   <!-- Intro -->
    <div class="w3-row-padding w3-padding w3-center" style="margin-left:10px;">
-    <div class="w3-half w3-display-container w3-animate-opacity"><img src="Img/2178420_orig.png" alt="img" class="w3-round" width="1500" height="500"style="object-fit: cover;  max-width: 600px;"></div>
+    <div class="w3-half w3-display-container w3-animate-opacity"><img src="../Img/2178420_orig.png" alt="img" class="w3-round" width="1500" height="500"style="object-fit: cover;  max-width: 600px;"></div>
     <div class="w3-half w3-container "> <p>Hello! This  is Kanomwan's UTAU Official web site!</p></div>
   </div><p></p>
 <div class="w3-panel w3-border-bottom"style="margin-left:45px; margin-right:45px; margin-top:45px;"></div>
@@ -72,35 +78,7 @@ function onClick(element) {
   var captionText = document.getElementById("caption");
   captionText.innerHTML = element.alt;
 }
-sidebar();
-function sidebar(){
-let navbar_code_str = `
-<!-- Sidebar/menu -->
-<nav class="w3-sidebar w3-black w3-collapse w3-top w3-large w3-padding" style="z-index:3;width:220px;font-weight:bold;" id="mySidebar"><br>
-  <a href="javascript:void(0)" onclick="w3_close()" class="w3-button w3-hide-large w3-display-topleft w3-hover-white" style="width:100%;font-size:22px">Close Menu</a>
-  <div class="w3-container">
-    <h3 class="w3-padding-64"><b>Kanomwan's<br>World</b></h3>
-  </div>
-  <div class="w3-bar-block">
-    <a href="index.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Home</a> 
-    <a href="Page/TOU.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Character</a> 
-    <a href="Page/UST.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">UST</a> 
-    <a href="Page/Contact.html" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Contact</a>
-  </div>
-</nav>
 
-<!-- Top menu on small screens -->
-<header class="w3-container w3-top w3-hide-large w3-black w3-xlarge w3-padding">
-  <a href="javascript:void(0)" class="w3-button w3-black w3-margin-right w3-hover-white" onclick="w3_open()">☰</a>
-  <span>Kanomwan's World</span>
-</header>
-
-<!-- Overlay effect when opening sidebar on small screens -->
-<div class="w3-overlay w3-hide-large " onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
-`
-$('body').append(navbar_code_str);
-
-}
 </script>
 
 </body>
