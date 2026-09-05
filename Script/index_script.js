@@ -110,14 +110,18 @@ const update_txt =[
   {"date" : "1.12.25",
     "note": "Add Kanomwan's Sherbet VB. Add I WA/I RE's Gemina VB. Add DO U, HELP!!, Cupid, Woven Fates, and Fact USTs."
 },
+  {"date" : "5.9.26",
+    "note": "Migrate website to github, new website, character info update, add kishoku page, add JUTAI, Bang Bang Bang (short ver.), Ego Rock x Vocaloid song (Mashup),DEAD WORLD (Musicbox ver.) USTs."
+},
 ]
 
 
 function update_log(){
     let text = ""
     for (let i = 0; i < update_txt.length; i++){
-        let new_text =  `<div class="w3-row" style="margin-left:20px; margin-top:10px;"> 
-  <div class="w3-container w3-cell"><i class="fa fa-minus w3-margin-right"></i>${update_txt[i].date}</div>
+        let new_text =  `<div class="w3-row  w3-medium" style="margin-left:20px; margin-top:10px;"> 
+        <div class="w3-container w3-cell"><i class="fa fa-minus w3-margin-right"></i></div>
+  <div class="w3-container w3-margin-right w3-cell">${update_txt[i].date}</div>
   <div class="w3-container w3-cell">${update_txt[i].note}</div>
 </div> `
         text = text + new_text

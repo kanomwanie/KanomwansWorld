@@ -94,6 +94,27 @@ const UST_list = [
         "type": "JP cvvc(Hiragana)",
         "link": "https://bowlroll.net/file/338850"
     },
+                    {
+        "name": "DEAD WORLD (Musicbox ver.)",
+        "type": "Eng cvvc(Delta) w/ MIDI",
+        "link": "https://bowlroll.net/file/354359"
+    },
+                        {
+        "name": "JUTAI",
+        "type": "JP VCV & Eng cvvc(Delta) w/ MIDI",
+        "link": "https://bowlroll.net/file/357579"
+    },
+                        {
+        "name": "BANG BANG BANG (Short ver.)",
+        "type": "Eng cvvc(Delta)",
+        "link": "https://www.mediafire.com/file/6lyoc453djwdrwc/Bang+Bang+Bang+BB-panzu+(Short+version)+UST.zip/file"
+    },
+                        {
+        "name": "Ego Rock x Vocaloid song (Mashup)",
+        "type": "JP cv & vcv(Hiragana)",
+        "link": "https://bowlroll.net/file/355414"
+    },
+
 ]
 
 function UST_log(){

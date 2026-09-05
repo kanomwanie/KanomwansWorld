@@ -1,59 +1,41 @@
 const info = {
-    "info": `Name: โรจน์ (  Roj )<br>
+    "info": `Name: キショク (Kishoku) <br>
 Voicer: Kanomwan<br>
-Pronouns: He/him<br>
-Age: 18<br>
-Birthday: October 15th<br>
-Likes: Music , Game , <a href="Phiang-aw.html" class="w3-hover-blue">Phiang aw</a><br>
-Dislikes: bad stuff , Anyone who want to hurt phiang aw.<br>`,
-    "desc":"A boy who get cursed to be come a monster (that what he called himself). He's really nice and friendly."
+Pronouns: They/Them, He/Him, She/Her (any pronouns besides it/its) <br>
+Age: 2 Years old (fully grown..?)<br>
+Birthday: Unknown<br>
+Likes: Frozen burger patty<br>
+Dislikes: Being treated like an animal.<br>`,
+    "desc":`A parasite born inside a farmer in the countryside, got captured by the government, currently lives in their facility made for creatures. <br><br>
+They are surprisingly intelligent, understands human gestures, and English.<br><br>`
 }
 
 const CV = [
     {
-        "info":``,
-        "link":"",
-        "type":"video",
-        "source":""
+        "info":`<b>1.0</b><br>1pitch CV with some VCV and CVVC extra <br>currently unrelease`,
+        "link":"kishoku.html",
+        "type":"audio",
+        "source":"../Audio/kisho.wav",
+        "note": "Sample song : かたつむり (ust by 有魚神弥/番煎P)"
     },
        
 ]
 
 const VCV = [
-    {
-        "info":`<b>Soft</b><br>
-​​Japanese<br>
-Monopitch<br>
-Soft<br>
-G3`,
-        "link":"https://bowlroll.net/file/309589",
+     {
+        "info":``,
+        "link":"",
         "type":"video",
-        "source":"http://www.youtube.com/embed/CqP9kDS5udo?wmode=opaque"
+        "source":""
     },
 ]
 
 const CVVC = [
-    {
-       "info":`
-<b>1.00</b><br>
-​​Japanese<br>
-Monopitch<br>
-Normal<br>
-G#3`,
-        "link":"https://drive.google.com/file/d/0B4ARNM2BPvHnbzVzcmZUVENtek0/view?usp=sharing&resourcekey=0-pAbfd6lPXVLevwsjHBS8bA",
+     {
+        "info":``,
+        "link":"",
         "type":"video",
-        "source":"http://www.youtube.com/embed/y-mtpkZZPPo?wmode=opaque"
-    },
-          {
-        "info":`
-<b>Whisper</b><br>
-​​Japanese<br>
-Monopitch<br>
-Whisper/soft<br>
-E3`,
-        "link":"https://drive.google.com/file/d/0B4ARNM2BPvHnZWNNSWs5QzdyeHM/view?resourcekey=0-vLZ10f1UxCKyLpwAcFtRVg",
-        "type":"video",
-        "source":"http://www.youtube.com/embed/bRzAzgIlPKc?wmode=opaque"
+        "source":""
     },
 ]
 
@@ -75,7 +57,7 @@ const MMD = [
     },
 ]
 
-const Gallery = ["roj-concept-art_orig","ไม่มีชื่อ 107_20250109213842","ไม่มีชื่อ 107_20250109213833","oc-roj-whisper-by-kanomwanie-dczg66t_orig"]
+const Gallery = ["Concept Art (no blood)","Concept Art (with blood)","8tqtAFi3gVarbMqMbpl8NZVH2mqBwxUV33dSGXGYYUiwV4vQ3FwxJyprqCcj","Concept Art (Kawaii shoujo)"]
 
 function show_all(){
 char_info();
@@ -95,19 +77,14 @@ function VB(){
     let vccv = ''
     let mmd = ''
     let count = 0
-            for(let i = 0; i < CVVC.length; i++){
-            let new_data = bank_data_maker(count,CVVC[i])
-cvvc= cvvc+ new_data
+            for(let i = 0; i < CV.length; i++){
+            let new_data = bank_data_maker(count,CV[i])
+cv= cv+ new_data
 count = count+1
     }
-            for(let i = 0; i < VCV.length; i++){
-            let new_data = bank_data_maker(count,VCV[i])
-vcv= vcv+ new_data
-count = count+1
-    }
-   // document.getElementById("CV").innerHTML = cv;
-     document.getElementById("VCV").innerHTML = vcv;
-    document.getElementById("CVVC").innerHTML = cvvc;
+    document.getElementById("CV").innerHTML = cv;
+   //  document.getElementById("VCV").innerHTML = vcv;
+  //  document.getElementById("CVVC").innerHTML = cvvc;
    // document.getElementById("VCCV").innerHTML = vccv;
     //document.getElementById("MMD").innerHTML = mmd;
 }
@@ -115,7 +92,7 @@ count = count+1
 function char_Gallery(){
     let txt = ""
      for (let i = 0; i < Gallery.length; i++){
-txt=txt+ `<div class="w3-quarter w3-padding w3-animate-opacity"><a href="../Img/Roj/${Gallery[i]}.png" target="_blank"><img src="../Img/Roj/${Gallery[i]}.png" class="w3-hover-opacity" alt="img" height="200px" width="300px" style="object-position: 0px -5px;object-fit: cover;"></a></div>`
+txt=txt+ `<div class="w3-quarter w3-padding w3-animate-opacity"><a href="../Img/Kishoku/${Gallery[i]}.png" target="_blank"><img src="../Img/Kishoku/${Gallery[i]}.png" class="w3-hover-opacity" alt="img" height="200px" width="300px" style="object-position: 0px -20px;object-fit: cover;"></a></div>`
      }
      document.getElementById("Gallery").innerHTML = txt;
 }

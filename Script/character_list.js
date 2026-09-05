@@ -19,12 +19,12 @@ const data =[{
     {
  "Name": "Phiang aw",
  "img": "icon.bmp",
-        "link": "index.html"
+        "link": "Phiang-aw.html"
     },
     {
  "Name": "vibrate",
  "img": "vvv.bmp",
-        "link": "index.html"
+        "link": "Vibrate.html"
     },]
 },
 { "Unit_name": "Alien Alien Alien",
@@ -37,12 +37,12 @@ const data =[{
     {
  "Name": "Fxckking",
  "img": "209.bmp",
-        "link": "index.html"
+        "link": "fxckking.html"
     },
     {
  "Name": "BB-Kun",
  "img": "IMG_3607.bmp",
-        "link": "index.html"
+        "link": "BB-Kun.html"
     },
 ]
 },
@@ -51,22 +51,22 @@ const data =[{
     "char": [{
  "Name": "Alvin",
  "img": "76.bmp",
-        "link": "index.html"
+        "link": "Alvin.html"
     },
     {
  "Name": "Verone",
  "img": "79.bmp",
-        "link": "index.html"
+        "link": "Verone.html"
     },
     {
  "Name": "Prinzer",
  "img": "cats.jpg",
-        "link": "index.html"
+        "link": "prinzer.html"
     },
     {
  "Name": "Colin",
  "img": "cats.jpg",
-        "link": "index.html"
+        "link": "Colin.html"
     },
 ]
 
@@ -101,7 +101,7 @@ const data =[{
     "char": [{
  "Name": "Popillious",
  "img": "194.bmp",
-        "link": "index.html"
+        "link": "popillious.html"
     },
     {
  "Name": "ZacQ",
@@ -127,7 +127,7 @@ const data =[{
     "char": [{
  "Name": "Kishoku",
  "img": "111_20251119213428.bmp",
-        "link": "index.html"
+        "link": "kishoku.html"
     },]
 }
 ]

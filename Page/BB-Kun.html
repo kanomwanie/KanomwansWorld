@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Kanomwan's World</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-colors-flat.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/all.min.css">
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Poppins", sans-serif}
+body {font-size:16px;}
+.w3-half img{margin-bottom:-6px;margin-top:16px;opacity:1;cursor:pointer}
+</style>
+</head>
+<body>
+<script src="../Script/sidebar.js"></script>
+<script>
+    $(document).ready(function(){
+        sidebar();
+    });
+</script>
+<script src="../Script/etc.js"></script>
+<script>
+    $(document).ready(function(){
+        show_all("BB-Kun");
+    });
+</script>
+<!-- !PAGE CONTENT! -->
+<div class="w3-main" style="margin-left:204px;">
+  <!-- Header -->
+  <div class="w3-display-container w3-container  w3-animate-top w3-animate-opacity" >
+    <img src="../Img/1157667609.png" alt="img"  width="1500" height="300"style="filter: brightness(60%); object-position: 0px -50px; object-fit: cover; max-height: 300px; max-width: 1350px;">
+  <div class="w3-display-middle w3-padding-large w3-border w3-wide w3-border-white w3-text-white w3-center">
+    <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">Character</h1>
+    <h5 class="w3-hide-large" style="white-space:nowrap">Character</h5>
+  </div>
+  </div> 
+
+  <!-- Intro -->
+   <a href="Character_list.html" class="w3-button w3-black w3-left-align w3-round-large w3-animate-left" style="margin-left:50px;margin-top:20px;">Back</a>
+  <div class="w3-row-padding w3-padding w3-center" style="margin-left:10px;">
+    <div class="w3-half w3-display-container w3-animate-opacity" style="max-height:800px">
+ <div class="w3-display-container w3-border-right w3-center">
+<div class="w3-display-container w3-border-right w3-center"><img src="../Img/etc/BB.png" alt="img"  height="800"></div>
+    </div>    </div>
+    <div class="w3-half w3-container  w3-animate-right" >
+      <div  class="w3-row w3-left-align w3-medium"style="line-height: 2;margin-left:20px;"> <p id="info"></p></div>
+    <div  class="w3-row w3-left-align w3-medium"style="line-height: 1.6;margin-left:20px;"> <p id="info_desc"></p></div>
+    </div>
+  </div>
+  <p></p>
+<div class="w3-panel w3-border-bottom"style="margin-left:45px; margin-right:45px; margin-top:45px;"></div>
+
+<h1 class="w3-xxlarge w3-text-black w3-animate-left"style="margin-left:45px;margin-top:45px;"><b>Voicebanks</b></h1>
+  <hr style="margin-left: 50px;width:50px;border:5px solid black" class="w3-round">
+  <h3 class="w3-xlarge w3-text-black w3-animate-left"style="margin-left:45px;margin-top:5px;"><b>CV</b></h3>
+<div id="VB"></div>
+
+</div>
+<!-- End page content -->
+</div>
+
+<!-- W3.CSS Container -->
+<div class="w3-light-grey w3-container w3-padding-32" style="margin-top:75px;padding-right:58px"><p class="w3-right">Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-opacity">w3.css</a></p></div>
+
+<script>
+// Script to open and close sidebar
+function w3_open() {
+  document.getElementById("mySidebar").style.display = "block";
+  document.getElementById("myOverlay").style.display = "block";
+}
+ 
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+  document.getElementById("myOverlay").style.display = "none";
+}
+
+// Modal Image Gallery
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+  var captionText = document.getElementById("caption");
+  captionText.innerHTML = element.alt;
+}
+
+//slide show
+var myIndex = 0;
+//carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 10000); // Change image every 2 seconds
+}
+</script>
+
+</body>
+</html>
