@@ -28,7 +28,7 @@ soft to strong<br>
 G#3 / B3 / D4 / E4 / G4 / A#4`,
         "link":"https://drive.google.com/file/d/0B4ARNM2BPvHnZjFtVGFWMHRrelE/view?resourcekey=0-h8ZYbjjg8mvW7zU7Xh6USA",
         "type":"video",
-        "source":"http://www.youtube.com/embed/CxKGFY66vps?wmode=opaque"
+        "source":"https://www.youtube.com/embed/CxKGFY66vps?wmode=opaque"
     },
      {
         "info":`<b>Mellow CV</b><br>
@@ -87,7 +87,7 @@ Hisohiso<br>
 C#3`,
         "link":"http://www.mediafire.com/download/x0272w5lwzkgpvd/kanomwan+Append+Weak.rar",
         "type":"video",
-        "source":"http://www.youtube.com/embed/E4Ay_LDIWJE?wmode=opaque"
+        "source":"https://www.youtube.com/embed/E4Ay_LDIWJE?wmode=opaque"
     },
         {
         "info":`<b>Destroy 2.0</b><br>
@@ -97,7 +97,7 @@ Pentapitch<br>
 ​A#3/B3/D#4/G4/A#4`,
         "link":"https://drive.google.com/file/d/0B4ARNM2BPvHnSWZUbkZsNDZUaTA/view?usp=sharing&resourcekey=0-ZXvMfaBbyl3Yf48Jq1yC3g",
         "type":"video",
-        "source":"http://www.youtube.com/embed/icb3-IrVgyA?wmode=opaque"
+        "source":"https://www.youtube.com/embed/icb3-IrVgyA?wmode=opaque"
     },
      {
         "info":`<b>Sing</b><br>
