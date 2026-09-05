@@ -18,7 +18,7 @@ strong ?<br>
 D#4`,
         "link":"https://www.mediafire.com/download/nbzh4qwg9agr1y6/kanomwan_CV.rar",
         "type":"video",
-        "source":"https://www.youtube.com/watch?v=WS1dSqD9aqQ"
+        "source":"https://www.youtube.com/embed/WS1dSqD9aqQ?si=_o4STuJYgjAvYHOQ"
     },
         {
         "info":`<b>ACT 3</b><br>
