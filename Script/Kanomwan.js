@@ -52,7 +52,7 @@ Normal<br>
 C#4`,
         "link":"http://www.mediafire.com/download/kqgygdsykr4ex0u/kanomwan_vcv.rar",
         "type":"video",
-        "source":"http://www.youtube.com/embed/J27vVrdHi0I?wmode=opaque"
+        "source":"https://www.youtube.com/embed/J27vVrdHi0I?wmode=opaque"
     },
         {
        "info":`
@@ -219,7 +219,7 @@ Made in vroid<br>
 Have hair physic`,
         "link":"https://bowlroll.net/file/292943",
         "type":"video",
-        "source":"http://www.youtube.com/embed/x8_1gYbQNCc?wmode=opaque"
+        "source":"https://www.youtube.com/embed/x8_1gYbQNCc?wmode=opaque"
     }
 ]
 
