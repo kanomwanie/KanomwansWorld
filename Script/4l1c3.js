@@ -37,7 +37,7 @@ Strong ?<br>
 ​C4`,
         "link":"https://drive.google.com/open?id=1rsIbWOdasSvTZyNhNZuNgU8DOKSYM-Zm",
         "type":"video",
-        "source":"http://www.youtube.com/embed/7acvX93yKms?wmode=opaque"
+        "source":"https://www.youtube.com/embed/7acvX93yKms?wmode=opaque"
     },
 ]
 

@@ -28,7 +28,7 @@ Soft<br>
 G3`,
         "link":"https://bowlroll.net/file/309589",
         "type":"video",
-        "source":"http://www.youtube.com/embed/CqP9kDS5udo?wmode=opaque"
+        "source":"https://www.youtube.com/embed/CqP9kDS5udo?wmode=opaque"
     },
 ]
 
@@ -42,7 +42,7 @@ Normal<br>
 G#3`,
         "link":"https://drive.google.com/file/d/0B4ARNM2BPvHnbzVzcmZUVENtek0/view?usp=sharing&resourcekey=0-pAbfd6lPXVLevwsjHBS8bA",
         "type":"video",
-        "source":"http://www.youtube.com/embed/y-mtpkZZPPo?wmode=opaque"
+        "source":"https://www.youtube.com/embed/y-mtpkZZPPo?wmode=opaque"
     },
           {
         "info":`
@@ -53,7 +53,7 @@ Whisper/soft<br>
 E3`,
         "link":"https://drive.google.com/file/d/0B4ARNM2BPvHnZWNNSWs5QzdyeHM/view?resourcekey=0-vLZ10f1UxCKyLpwAcFtRVg",
         "type":"video",
-        "source":"http://www.youtube.com/embed/bRzAzgIlPKc?wmode=opaque"
+        "source":"https://www.youtube.com/embed/bRzAzgIlPKc?wmode=opaque"
     },
 ]
 

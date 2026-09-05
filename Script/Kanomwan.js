@@ -63,7 +63,7 @@ Deep-soft<br>
 A#3`,
         "link":"https://bowlroll.net/file/258572",
         "type":"video",
-        "source":"http://www.youtube.com/embed/uteffFKXsHY?wmode=opaque"
+        "source":"https://www.youtube.com/embed/uteffFKXsHY?wmode=opaque"
     },
     {
        "info":`<b>Lost</b><br>
@@ -73,7 +73,7 @@ Bright<br>
 E4 / C4​`,
         "link":"https://bowlroll.net/file/292942",
         "type":"video",
-        "source":"http://www.youtube.com/embed/x8_1gYbQNCc?wmode=opaque"
+        "source":"https://www.youtube.com/embed/x8_1gYbQNCc?wmode=opaque"
     },
 ]
 
@@ -107,7 +107,7 @@ Normal<br>
 C#4`,
         "link":"https://drive.google.com/file/d/0B4ARNM2BPvHnam9wRklZU2lVNW8/view?usp=sharing&resourcekey=0-MpO3REv9qR2dR2OaPZn6CA",
         "type":"video",
-        "source":"http://www.youtube.com/embed/WullNA9RxOQ?wmode=opaque"
+        "source":"https://www.youtube.com/embed/WullNA9RxOQ?wmode=opaque"
     },
      {
         "info":`<b>Dust</b><br>
@@ -119,7 +119,7 @@ F#3/A3/C4<br><br>
 ​C4 have vocal fry in vowel`,
         "link":"https://drive.google.com/file/d/0B4ARNM2BPvHnOFpZSVpXWlFab1k/view?usp=sharing&resourcekey=0-U84stKGzkRjVEC8tjUKbCg",
         "type":"video",
-        "source":"http://www.youtube.com/embed/tW-UhywWc9c?wmode=opaque"
+        "source":"https://www.youtube.com/embed/tW-UhywWc9c?wmode=opaque"
     },
      {
         "info":`
@@ -130,7 +130,7 @@ Normal / Strong-ish<br>
 D4`,
         "link":"https://bowlroll.net/file/195889",
         "type":"video",
-        "source":"http://www.youtube.com/embed/-CsYmfSkle0?wmode=opaque"
+        "source":"https://www.youtube.com/embed/-CsYmfSkle0?wmode=opaque"
     },
      {
         "info":`<b>Blast</b><br>
@@ -141,7 +141,7 @@ G#4/C5/A#3/C4/D#4 + A#3(soft append)
 `,
         "link":"https://bowlroll.net/file/359769",
         "type":"video",
-        "source":"http://www.youtube.com/embed/LfhSrPwYPLQ?wmode=opaque"
+        "source":"https://www.youtube.com/embed/LfhSrPwYPLQ?wmode=opaque"
     },
      {
         "info":`<b>Dawn</b><br>
@@ -151,7 +151,7 @@ Sleepy voice (soft/sweet)<br>
 C#4`,
         "link":"https://bowlroll.net/file/228772",
         "type":"video",
-        "source":"http://www.youtube.com/embed/r26-9zRRv0Q?wmode=opaque"
+        "source":"https://www.youtube.com/embed/r26-9zRRv0Q?wmode=opaque"
     },
     {
         "info":`<b>Mellow CVVC</b><br>
@@ -173,7 +173,7 @@ Strong<br>
 G4 / C4 / A#3`,
         "link":"https://www.mediafire.com/file/gi9rwipdc0j30uh/Kanomwan+Strong.rar/file",
         "type":"video",
-        "source":"http://www.youtube.com/embed/WmAQtCPZgJQ?wmode=opaque"
+        "source":"https://www.youtube.com/embed/WmAQtCPZgJQ?wmode=opaque"
     },
     {
         "info":`<b>Deep</b><br>
@@ -184,7 +184,7 @@ A3
 `,
         "link":"https://bowlroll.net/file/309668",
         "type":"video",
-        "source":"http://www.youtube.com/embed/Xn7TGJecdww?wmode=opaque"
+        "source":"https://www.youtube.com/embed/Xn7TGJecdww?wmode=opaque"
     },
     {
         "info":`<b>Sherbet</b><br>
@@ -194,7 +194,7 @@ Natural, sweet, powerful with additional Power/Falsetto append<br>
 A3/C#4/F#4 + A4(both Power/Falsetto) `,
         "link":"https://bowlroll.net/file/336225",
         "type":"video",
-        "source":"http://www.youtube.com/embed/wSFh-LnNZTk?wmode=opaque"
+        "source":"https://www.youtube.com/embed/wSFh-LnNZTk?wmode=opaque"
     },
 ]
 

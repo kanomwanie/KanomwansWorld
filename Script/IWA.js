@@ -18,7 +18,7 @@ Strong ?<br>
 ​F4`,
         "link":"https://drive.google.com/file/d/0B4ARNM2BPvHnYTNZOGdBaWJJeUk/view?usp=sharing&resourcekey=0-TVAYdTHSK6u8EVFbV_C51g",
         "type":"video",
-        "source":"http://www.youtube.com/embed/9zii8g6l1Pk?wmode=opaque"
+        "source":"https://www.youtube.com/embed/9zii8g6l1Pk?wmode=opaque"
     },
         {
         "info":`
@@ -29,7 +29,7 @@ Falsetto<br>
 E5`,
         "link":"https://bowlroll.net/file/228780",
         "type":"video",
-        "source":"http://www.youtube.com/embed/gYtW3w595h4?wmode=opaque"
+        "source":"https://www.youtube.com/embed/gYtW3w595h4?wmode=opaque"
     },
 ]
 
@@ -57,7 +57,7 @@ NOTE : A#4 sound kinda like Iwa is in pain so feel free to edit prefix map lol<b
 NOTE2 : Whisper append is Whisper vcv bank.`,
         "link":"https://www.mediafire.com/file/3dscy2nqeps37f7/I_WA_VCV.rar/file",
         "type":"video",
-        "source":"http://www.youtube.com/embed/LdgP3O98_p8?wmode=opaque"
+        "source":"https://www.youtube.com/embed/LdgP3O98_p8?wmode=opaque"
     },
 
 ]
@@ -71,7 +71,7 @@ Growl<br>
 G#4`,
         "link":"https://drive.google.com/file/d/0B4ARNM2BPvHnMGVPN0ZINUkyOE0/view?usp=sharing&resourcekey=0-WZWOmPCLgoA-ymFD6KWc-A",
         "type":"video",
-        "source":"http://www.youtube.com/embed/y-mtpkZZPPo?wmode=opaque"
+        "source":"https://www.youtube.com/embed/y-mtpkZZPPo?wmode=opaque"
     },
             {
         "info":`<b>Whisper</b><br>
@@ -81,7 +81,7 @@ Whisper<br>
 ​D4`,
         "link":"https://drive.google.com/file/d/0B4ARNM2BPvHnMi1kV3VuWHltMHc/view?usp=sharing&resourcekey=0-cRfOgvM9gcz3GGDjrmLoZw",
         "type":"video",
-        "source":"http://www.youtube.com/embed/xRH6ym1js2c?wmode=opaque"
+        "source":"https://www.youtube.com/embed/xRH6ym1js2c?wmode=opaque"
     },
             {
         "info":`<b>BUNNY</b><br>
@@ -91,7 +91,7 @@ Soft<br>
 ​A#3 / D#4 / G4 / B4 / E5`,
         "link":"https://drive.google.com/file/d/0B4ARNM2BPvHnU25zM3VXWFdtUXM/view?usp=sharing&resourcekey=0-FJpabHqnIB9wJldqGACjSA",
         "type":"video",
-        "source":"http://www.youtube.com/embed/vXB8wX96Jdk?wmode=opaque"
+        "source":"https://www.youtube.com/embed/vXB8wX96Jdk?wmode=opaque"
     },
         {
         "info":`<b>Roll</b><br>
@@ -101,7 +101,7 @@ Strong<br>
 ​C4 / E4 / A4`,
         "link":"https://drive.google.com/file/d/0B4ARNM2BPvHnV29nd19ZTnJucmc/view?usp=sharing&resourcekey=0-uXLhxVLx_4Ua-yh_hLQJag",
         "type":"video",
-        "source":"http://www.youtube.com/embed/4XTJpdZV-Po?wmode=opaque"
+        "source":"https://www.youtube.com/embed/4XTJpdZV-Po?wmode=opaque"
     },
             {
         "info":`<b>Act 1</b><br>
@@ -111,7 +111,7 @@ Strong<br>
 F4`,
         "link":"https://drive.google.com/file/d/0B4ARNM2BPvHnbUE5Tl93LVg3aXc/view?usp=sharing&resourcekey=0-UmVfI9QsMNWWQeJH_YzRjQ",
         "type":"video",
-        "source":"http://www.youtube.com/embed/WullNA9RxOQ?wmode=opaque"
+        "source":"https://www.youtube.com/embed/WullNA9RxOQ?wmode=opaque"
     },
         {
         "info":`
@@ -122,7 +122,7 @@ Strong<br>
 D4/G#4/B4`,
         "link":"https://www.mediafire.com/file/9guu5qgg72gvtm9/I_WA_Devil.rar/file",
         "type":"video",
-        "source":"http://www.youtube.com/embed/8cAlZIP-4qg?wmode=opaque"
+        "source":"https://www.youtube.com/embed/8cAlZIP-4qg?wmode=opaque"
     },
         {
         "info":`<b>Gemina</b><br>
@@ -136,7 +136,7 @@ A#3<br>
 Note: This bank uses a different G flag, as it was meant for both Iwa and Ire. Please read readme.txt for the flag.`,
         "link":"https://bowlroll.net/file/345091",
         "type":"video",
-        "source":"http://www.youtube.com/embed/Mx-k6EmkGiE?wmode=opaque"
+        "source":"https://www.youtube.com/embed/Mx-k6EmkGiE?wmode=opaque"
     },
 ]
 
@@ -150,7 +150,7 @@ Strong<br>
 ​​G#4`,
         "link":"https://www.mediafire.com/file/lu87npi2mtqfm7q/I_WA_TH.rar/file",
         "type":"video",
-        "source":"http://www.youtube.com/embed/PzGaoVJP7e4?wmode=opaque"
+        "source":"https://www.youtube.com/embed/PzGaoVJP7e4?wmode=opaque"
     },
 ]
 
@@ -161,7 +161,7 @@ Made in vroid<br>
 Have hair/Ear physic`,
         "link":"https://bowlroll.net/file/297817",
         "type":"video",
-        "source":"http://www.youtube.com/embed/eMsd3vLFdZ0?wmode=opaque"
+        "source":"https://www.youtube.com/embed/eMsd3vLFdZ0?wmode=opaque"
     }
 ]
 

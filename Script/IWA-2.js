@@ -22,7 +22,7 @@ Unlike the recommended flag state on his profile, <b>this bank uses a different 
 Please read readme.txt to see the flag.`,
         "link":"https://bowlroll.net/file/345091",
         "type":"video",
-        "source":"http://www.youtube.com/embed/Mx-k6EmkGiE?wmode=opaque"
+        "source":"https://www.youtube.com/embed/Mx-k6EmkGiE?wmode=opaque"
     }
 ]
 

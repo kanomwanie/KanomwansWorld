@@ -19,7 +19,7 @@ G#5<br>
 *PEEP*`,
         "link":"https://bowlroll.net/file/180830",
         "type":"video",
-        "source":"http://www.youtube.com/embed/2xksa3O4r78?wmode=opaque"
+        "source":"https://www.youtube.com/embed/2xksa3O4r78?wmode=opaque"
     }
 },
 {
@@ -42,7 +42,7 @@ High pitch annoying ass<br>
 A4`,
         "link":"https://bowlroll.net/file/309587",
         "type":"video",
-        "source":"http://www.youtube.com/embed/ag8D9mGjvQ0?wmode=opaque"
+        "source":"https://www.youtube.com/embed/ag8D9mGjvQ0?wmode=opaque"
     }
 },
 {
@@ -109,7 +109,7 @@ Glass hitted by a metal chopstick sound<br>
 D3 / F3 / A#3 / F4 / C#5`,
         "link":"http://www.mediafire.com/file/ixsctb7bz3cim3m/Glass+UTAU.rar",
         "type":"video",
-        "source":"http://www.youtube.com/embed/1cu_u3hTMz4?wmode=opaque"
+        "source":"https://www.youtube.com/embed/1cu_u3hTMz4?wmode=opaque"
     }
 },
 {
@@ -134,7 +134,7 @@ G3<br>
 You can use him as thai cvvc , vccv and vcv too but you have to edit the whole ust. Work easily with hiragana vcv`,
         "link":"https://drive.google.com/file/d/1Z4RO0hmfNxhQup5sZZXMhzDY9EL6NliJ/view?usp=sharing",
         "type":"video",
-        "source":"http://www.youtube.com/embed/C65mGo1jVjo?wmode=opaque"
+        "source":"https://www.youtube.com/embed/C65mGo1jVjo?wmode=opaque"
     }
 },
 {
